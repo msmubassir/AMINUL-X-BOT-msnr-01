@@ -43,7 +43,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝐀𝐌𝐈𝐍𝐔𝐋-𝐁𝐎𝐓 ",
+  "nickNameBot": "𝐒𝐚𝐝𝐢𝐲𝐚-𝐁𝐨𝐭 ",
   "prefix": "#",
   "database": {
     "type": "sqlite",
